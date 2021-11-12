@@ -24,3 +24,10 @@ router.get("/", withAuth, (req, res) => {
 });
 
 // get new post
+router.get("/new", withAuth, (req, res) => {
+    res.render("new-post", {
+        layout: "dashboard"
+    });
+});
+
+// 
