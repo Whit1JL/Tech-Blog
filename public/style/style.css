@@ -41,3 +41,25 @@ h2 a:visited {
 h2 a {
   color: var(--primary);
 }
+
+
+header {
+    display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+main {
+    margin: 20px auto;
+    width: 94%;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: var(--dark);
+  }
+  
