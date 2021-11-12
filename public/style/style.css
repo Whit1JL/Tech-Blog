@@ -1,0 +1,8 @@
+:root {
+    --primary: purple;
+    --secondary: rgb(238, 20, 238);
+    --tertiary: rgb(156, 49, 156);
+    --dark: rgb(107, 26, 107);
+    --border-radius: 0.2rem;
+}
+
