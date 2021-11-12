@@ -97,4 +97,53 @@ input {
   .btn-inline {
     display: inline;
   }
+
+  .li-inline {
+    display: inline;
+  }
   
+  .nav-item {
+    margin: 0 40px;
+  }
+  
+  .nav-item a {
+    color: var(--primary);
+  }
+  
+  .hero {
+    padding: 3% 4%;
+    background-color: var(--secondary);
+    color: var(--primary);
+  }
+  
+  .hero p {
+    max-width: 75%;
+  }
+  
+  .app-title {
+    font-size: 3rem;
+    color: var(--primary);
+    padding: 0 10px;
+    display: inline-block;
+  }
+  
+  .app-title a {
+    color: var(--primary);
+  }
+  
+  .list-group {
+    padding: 1%;
+  }
+  
+  .list-item {
+    margin-bottom: 10px;
+    padding: 1%;
+    border-radius: var(--border-radius);
+    background-color: var(--dark);
+    color: var(--primary);
+    text-decoration: none;
+  }
+  
+  .list-item:hover {
+    background-color: var(--secondary);
+  }
