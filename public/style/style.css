@@ -147,3 +147,82 @@ input {
   .list-item:hover {
     background-color: var(--secondary);
   }
+
+  .footer a {
+    display: inline-block;
+    padding: 1em;
+    margin-bottom: 0.5em;
+    background-color: var(--secondary);
+    color: var(--primary);
+    border-radius: var(--border-radius);
+    text-decoration: none;
+  }
+  
+  /* CARDS */
+  .card {
+    margin: 0 0 25px 0;
+    border-radius: var(--border-radius);
+  }
+  
+  .card-header {
+    color: var(--primary);
+    background-color: var(--dark);
+    padding: 1%;
+  }
+  
+  .card-body {
+    padding: 1%;
+    color: var(--dark);
+  }
+  
+  .form-label,
+  .form-input,
+  .form-textarea {
+    display: block;
+  }
+  
+  .form-label {
+    font-size: 1.1rem;
+    margin: 0 0 0 5px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 1%;
+    margin: 5px 0;
+    font-size: 1.2rem;
+    border: 1px solid var(--dark);
+    border-radius: var(--border-radius);
+  }
+  
+  .min-100-vh {
+    min-height: 100vh;
+  }
+  
+  .min-100-vw {
+    min-width: 100vw;
+  }
+  
+  .flex-row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  
+  .justify-space-between {
+    justify-content: space-between;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .col-auto {
+    flex-grow: 1;
+  }
+  
