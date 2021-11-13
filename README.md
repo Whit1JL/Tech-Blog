@@ -10,7 +10,8 @@ I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my 
 
 ## Screenshots
 
-
+![Screenshot (93)](https://user-images.githubusercontent.com/82970208/141603816-722be2da-6e56-4aa9-8369-c2e20239c8ab.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/82970208/141603818-5170f1d1-4f68-4015-8ad3-6832912db3bc.png)
 
 ## Heroku Link
 The application is deployed at: https://safe-refuge-75231.herokuapp.com/
