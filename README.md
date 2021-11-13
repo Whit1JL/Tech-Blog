@@ -10,8 +10,10 @@ I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my 
 
 ## Screenshots
 
+
+
 ## Heroku Link
-The application is deployed at:
+The application is deployed at: https://safe-refuge-75231.herokuapp.com/
 
 To run locally on CML, run node server.js. The application can open at localhost:3000 in a browser.
 
@@ -27,6 +29,12 @@ User is automatically signed out of the site when user is idle for some period o
 ## Technology Utilization
 
 The technologies that I used are: Node, Express Handlebars, Sequelize, MySQL2, bcrypt, and Heroku.
+
+## Tests
+To run this application,
+
+`` npm i ``
+
 
 ## License
 License is MIT license. 
