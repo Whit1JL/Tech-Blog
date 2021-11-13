@@ -1,3 +1,4 @@
+console.log("All models");
 // require other models
 const Comment = require('./Comment');
 const Post = require('./Post');
