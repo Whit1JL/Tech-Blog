@@ -35,7 +35,9 @@ The technologies that I used are: Node, Express Handlebars, Sequelize, MySQL2, b
 To run this application,
 
 `` npm i ``
+
 `` npm i sequelize express bcrypt mysql2 express-handlebars ``
+
 `` node server.js ``
 
 
